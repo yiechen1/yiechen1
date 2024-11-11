@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @yiechen1
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on
+    - Data Analysis Projects
 - 📫 How to reach me ...
 - 😄 Pronouns: not important/neutral
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:
+    - i got stuck in tutorial hell for 2 months
