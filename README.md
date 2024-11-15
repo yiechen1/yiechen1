@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on
     - Data Science Projects
     - Web Development Projects
-- 📫 How to reach me ...
+- 📫 How to reach me: +1 647-269-3868
 - 😄 Pronouns: not important/neutral
 - ⚡ Fun fact:
     - i got stuck in tutorial hell for 2 months
