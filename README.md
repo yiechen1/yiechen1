@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on
-    - Data Analysis Projects
+    - Data Science Projects
+    - Web Development Projects
 - 📫 How to reach me ...
 - 😄 Pronouns: not important/neutral
 - ⚡ Fun fact:
