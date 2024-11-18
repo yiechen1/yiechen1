@@ -5,6 +5,7 @@
     - Data Science Projects
     - Web Development Projects
 - 📫 How to reach me: +1 647-269-3868
+  My Projects are in my linked CodePen Account: https://codepen.io/yiechen
 - 😄 Pronouns: not important/neutral
 - ⚡ Fun fact:
-    - i got stuck in tutorial hell for 2 months
+    - I got stuck in tutorial hell for 4 months
